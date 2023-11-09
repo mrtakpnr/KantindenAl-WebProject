@@ -1,0 +1,12 @@
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\bin\Debug\net7.0\Entity.dll
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\bin\Debug\net7.0\Entity.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\Entity.dll
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\Entity.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\ref\Entity.dll

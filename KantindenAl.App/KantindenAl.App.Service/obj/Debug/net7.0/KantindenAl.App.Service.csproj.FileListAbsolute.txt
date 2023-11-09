@@ -1,0 +1,34 @@
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Service.deps.json
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Service.dll
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Service.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.DataAccess.dll
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Entity.dll
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.DataAccess.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Entity.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.csproj.AssemblyReference.cache
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.AssemblyInfoInputs.cache
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.AssemblyInfo.cs
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.csproj.CoreCompileInputs.cache
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.csproj.CopyComplete
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.dll
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\refint\KantindenAl.App.Service.dll
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\ref\KantindenAl.App.Service.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Service.deps.json
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Service.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Service.pdb
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.DataAccess.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Entity.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.DataAccess.pdb
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\bin\Debug\net7.0\KantindenAl.App.Entity.pdb
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.csproj.AssemblyReference.cache
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.AssemblyInfoInputs.cache
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.AssemblyInfo.cs
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.csproj.CoreCompileInputs.cache
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.csproj.CopyComplete
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\refint\KantindenAl.App.Service.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\KantindenAl.App.Service.pdb
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.Service\obj\Debug\net7.0\ref\KantindenAl.App.Service.dll

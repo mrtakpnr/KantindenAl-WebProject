@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KantindenAl.App.MvcUI
+build_property.RootNamespace = KantindenAl.App.MvcUI
+build_property.ProjectDir = C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.MvcUI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\KantindenAl.App.MvcUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Admin/CreateOwner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlT3duZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Admin/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Admin/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Admin/OwnerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3duZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Admin/Role.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Admin/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Cart/ConfirmPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb25maXJtUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Cart/IncQuantity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmNRdWFudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Owner/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Owner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Owner/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Owner/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Owner/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcVXBkYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Owner/Wallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcV2FsbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XEFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/ConfirmPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XENvbmZpcm1QYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/RegisterStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFJlZ2lzdGVyU3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/SelectStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFNlbGVjdFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/TopUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFRvcFVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/TopUpConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFRvcFVwQ29uZmlybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Parent/Wallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFdhbGxldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Sale/DetailOwner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxEZXRhaWxPd25lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/Components/Balance/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmFsYW5jZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/Components/CartModal/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydE1vZGFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/Components/Category/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/Components/OwnerAndSchoolNavbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcT3duZXJBbmRTY2hvb2xOYXZiYXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/Components/OwnerAndSchool/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcT3duZXJBbmRTY2hvb2xcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/_LayoutIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/_LayoutOwner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRPd25lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/_LayoutParentAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQYXJlbnRBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murat/OneDrive/Masaüstü/KantindenAl.App/KantindenAl.App.MvcUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wlgrc2xeru

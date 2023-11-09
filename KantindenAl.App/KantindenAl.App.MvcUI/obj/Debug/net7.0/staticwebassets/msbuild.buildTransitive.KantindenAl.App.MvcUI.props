@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KantindenAl.App.MvcUI.props" />
+</Project>

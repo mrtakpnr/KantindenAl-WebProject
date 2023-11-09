@@ -1,0 +1,24 @@
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\bin\Debug\net7.0\KantindenAl.App.Entity.deps.json
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\bin\Debug\net7.0\KantindenAl.App.Entity.dll
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\bin\Debug\net7.0\KantindenAl.App.Entity.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.csproj.AssemblyReference.cache
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.AssemblyInfoInputs.cache
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.AssemblyInfo.cs
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.csproj.CoreCompileInputs.cache
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.dll
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\refint\KantindenAl.App.Entity.dll
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.pdb
+C:\BAU Bright\Projeler\KantindenAl.App\Entity\obj\Debug\net7.0\ref\KantindenAl.App.Entity.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\bin\Debug\net7.0\KantindenAl.App.Entity.deps.json
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\bin\Debug\net7.0\KantindenAl.App.Entity.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\bin\Debug\net7.0\KantindenAl.App.Entity.pdb
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.csproj.AssemblyReference.cache
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.AssemblyInfoInputs.cache
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.AssemblyInfo.cs
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\refint\KantindenAl.App.Entity.dll
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\KantindenAl.App.Entity.pdb
+C:\Users\Murat\OneDrive\Masaüstü\KantindenAl.App\Entity\obj\Debug\net7.0\ref\KantindenAl.App.Entity.dll

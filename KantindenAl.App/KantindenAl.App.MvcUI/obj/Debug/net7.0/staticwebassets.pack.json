@@ -1,0 +1,2101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KantindenAl.App.MvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KantindenAl.App.MvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\07017159-4beab4-1650x1650.jpg",
+      "PackagePath": "staticwebassets\\images\\07017159-4beab4-1650x1650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\07034568-502abc.jpg",
+      "PackagePath": "staticwebassets\\images\\07034568-502abc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\0f5e70d8-4fb8-4ed7-b96f-02e62311394a.jpg",
+      "PackagePath": "staticwebassets\\images\\0f5e70d8-4fb8-4ed7-b96f-02e62311394a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\1200x627-hamburger-nerenin-yemegi-hamburger-hangi-ulkenin-yemegidir-1632722854093.jpg",
+      "PackagePath": "staticwebassets\\images\\1200x627-hamburger-nerenin-yemegi-hamburger-hangi-ulkenin-yemegidir-1632722854093.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\2059-8690526023830-jpg-8690526023830.jpg",
+      "PackagePath": "staticwebassets\\images\\2059-8690526023830-jpg-8690526023830.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\8030110_yan-564215-1650x1650.jpg",
+      "PackagePath": "staticwebassets\\images\\8030110_yan-564215-1650x1650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\8059620-4b4482-1650x1650.jpg",
+      "PackagePath": "staticwebassets\\images\\8059620-4b4482-1650x1650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\Albeni.jpg",
+      "PackagePath": "staticwebassets\\images\\Albeni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\EtiCraxBaharat.jpg",
+      "PackagePath": "staticwebassets\\images\\EtiCraxBaharat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\EtiCraxPeynir.jpg",
+      "PackagePath": "staticwebassets\\images\\EtiCraxPeynir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\EtiCraxSusam.jpg",
+      "PackagePath": "staticwebassets\\images\\EtiCraxSusam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\EtiTopkekMeyveli.jpg",
+      "PackagePath": "staticwebassets\\images\\EtiTopkekMeyveli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\Gong,.jpg",
+      "PackagePath": "staticwebassets\\images\\Gong,.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\Mercimek.jpg",
+      "PackagePath": "staticwebassets\\images\\Mercimek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\MeyveSuyu.jpg",
+      "PackagePath": "staticwebassets\\images\\MeyveSuyu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\Negro.jpg",
+      "PackagePath": "staticwebassets\\images\\Negro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\PepsiKola.jpg",
+      "PackagePath": "staticwebassets\\images\\PepsiKola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\Rulokat.jpg",
+      "PackagePath": "staticwebassets\\images\\Rulokat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\images\\about-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\cikolataetiet-001.001.189-bb-47f.jpg",
+      "PackagePath": "staticwebassets\\images\\cikolataetiet-001.001.189-bb-47f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\dimes-meyve-suyu-ananas-200-ml-1e88e6.jpg",
+      "PackagePath": "staticwebassets\\images\\dimes-meyve-suyu-ananas-200-ml-1e88e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\dimes-meyve-suyu-karisik-200-ml-kcm79723864-1-94feef8e30464b3483cb35691442c94a.jpg",
+      "PackagePath": "staticwebassets\\images\\dimes-meyve-suyu-karisik-200-ml-kcm79723864-1-94feef8e30464b3483cb35691442c94a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\eti-milk-chocolate-80-gr.png",
+      "PackagePath": "staticwebassets\\images\\eti-milk-chocolate-80-gr.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\fanta.jpg",
+      "PackagePath": "staticwebassets\\images\\fanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\haribo-jelly-parti-boy-altin-ayicik-20-b2f1-4.jpg",
+      "PackagePath": "staticwebassets\\images\\haribo-jelly-parti-boy-altin-ayicik-20-b2f1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\hbjl-hero.jpg",
+      "PackagePath": "staticwebassets\\images\\hbjl-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\user.png",
+      "PackagePath": "staticwebassets\\images\\icons\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\icons\\wallet1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\wallet1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\lays-klasik-cips-mediumplus-boy-50-gr-32455a.jpg",
+      "PackagePath": "staticwebassets\\images\\lays-klasik-cips-mediumplus-boy-50-gr-32455a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\missions.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\missions.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\owner-logo.png",
+      "PackagePath": "staticwebassets\\images\\owner-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\parent-login.png",
+      "PackagePath": "staticwebassets\\images\\parent-login.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\pexels-johannes-plenio-1103970.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-johannes-plenio-1103970.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\sss-03.jpg",
+      "PackagePath": "staticwebassets\\images\\sss-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\store-login.png",
+      "PackagePath": "staticwebassets\\images\\store-login.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\images\\Çizi,.jpg",
+      "PackagePath": "staticwebassets\\images\\Çizi,.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\checkout.html",
+      "PackagePath": "staticwebassets\\themes\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\.gitattributes",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\about.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\blog-detail.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\blog-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\blog.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\contact.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\css\\main.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\css\\util.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\home-02.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\home-02.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\home-03.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\home-03.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\about-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\about-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\index.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\js\\main.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\js\\map-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\js\\slick-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\product-detail.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\product-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\product.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\product.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\shoping-cart.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\shoping-cart.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\cozastore-master\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\themes\\cozastore-master\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\blank.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\blank.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\bootstrap-admin-template-free.jpg",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\bootstrap-admin-template-free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\button.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\button.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\chart.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\chart.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\element.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\element.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\form.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\form.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\img\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\img\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\img\\owner-logo.png",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\img\\owner-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\index.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\index.html.__projection.g.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\index.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\index.html.__projection.g.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\signin.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\signin.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\signup.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\signup.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\table.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\table.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\typography.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\OneDrive\\Masaüstü\\KantindenAl.App\\KantindenAl.App.MvcUI\\wwwroot\\themes\\dashmin-1.0.0\\widget.html",
+      "PackagePath": "staticwebassets\\themes\\dashmin-1.0.0\\widget.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KantindenAl.App.MvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KantindenAl.App.MvcUI.props",
+      "PackagePath": "build\\KantindenAl.App.MvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KantindenAl.App.MvcUI.props",
+      "PackagePath": "buildMultiTargeting\\KantindenAl.App.MvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KantindenAl.App.MvcUI.props",
+      "PackagePath": "buildTransitive\\KantindenAl.App.MvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
